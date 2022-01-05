@@ -24,5 +24,10 @@ git log
 
 #goto github, creat reposatory with the same name as the file you made with mkdir. copy the location url of the HTTPS to remote from your computer with "or push an exiting..."
 
+
+git remote add origin https://github.com/sunshine1247474/git_practice.git
+git push -u origin master
+
+
 #paste in local bash
 automatically displays in github after password and username hiddenly inputed.
